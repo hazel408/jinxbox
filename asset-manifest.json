@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jinxbox/static/css/main.8c89b747.css",
+    "main.js": "/jinxbox/static/js/main.58bb5462.js",
+    "static/js/453.b5dc87a0.chunk.js": "/jinxbox/static/js/453.b5dc87a0.chunk.js",
+    "index.html": "/jinxbox/index.html",
+    "main.8c89b747.css.map": "/jinxbox/static/css/main.8c89b747.css.map",
+    "main.58bb5462.js.map": "/jinxbox/static/js/main.58bb5462.js.map",
+    "453.b5dc87a0.chunk.js.map": "/jinxbox/static/js/453.b5dc87a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c89b747.css",
+    "static/js/main.58bb5462.js"
+  ]
+}
