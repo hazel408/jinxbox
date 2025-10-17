@@ -8,10 +8,10 @@ export default function SignInModal({ onClose }) {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    
+    // Check if both fields are filled
     if (email.trim() !== "" && password.trim() !== "") {
       alert(`Welcome, ${email}!`);
-      onClose(); 
+      onClose(); // close modal after sign-in
     } else {
       alert("Please enter both email and password.");
     }
